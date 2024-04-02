@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"voces","l":"ProcesamientoTexto"},{"p":"voces","l":"ReconocimientoVoz"}];updateSearchResults();
